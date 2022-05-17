@@ -40,7 +40,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Naveenchand06/TodoApp-Hive/master/assets/screen1.png=200x250)
+![App Screenshot](https://raw.githubusercontent.com/Naveenchand06/TodoApp-Hive/master/assets/screen1.png)
 ![App Screenshot](https://raw.githubusercontent.com/Naveenchand06/TodoApp-Hive/master/assets/screen2.png)
 ![App Screenshot](https://raw.githubusercontent.com/Naveenchand06/TodoApp-Hive/master/assets/screen3.png)
 ![App Screenshot](https://raw.githubusercontent.com/Naveenchand06/TodoApp-Hive/master/assets/screen4.png)
