@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.naveenhivetodo.local_todos">
    <application
-        android:label="local_todos"
+        android:label="Todo"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
